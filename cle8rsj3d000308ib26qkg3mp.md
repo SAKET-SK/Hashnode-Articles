@@ -1,4 +1,12 @@
-# Day 8 : Angular - Routing
+---
+title: "Day 8 : Angular - Routing"
+datePublished: Fri Feb 17 2023 16:53:28 GMT+0000 (Coordinated Universal Time)
+cuid: cle8rsj3d000308ib26qkg3mp
+slug: day-8-angular-routing
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/yhNVwsKTSaI/upload/8a6679e30ab47eae8481ec3d25471cea.jpeg
+tags: mean, angularjs, frontend-development, angular-material
+
+---
 
 Ever noticed any website's URL bar with path names? For example, when you are on the login page, ".../login" appears at the end. When you view the profile, ".../profile" appears. The word at the end is known as the specified route, which will tell us what the page will redirect to.
 
