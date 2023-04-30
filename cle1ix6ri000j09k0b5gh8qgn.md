@@ -1,4 +1,12 @@
-# Day 2 : Angular - Running your first Angular Application
+---
+title: "Day 2 : Angular - Running your first Angular Application"
+datePublished: Sun Feb 12 2023 15:10:46 GMT+0000 (Coordinated Universal Time)
+cuid: cle1ix6ri000j09k0b5gh8qgn
+slug: day-2-angular-running-your-first-angular-application
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/qlS6vMR2PpU/upload/7b9271f0e0e5fc0008d4487108a5a0cb.jpeg
+tags: mean, angularjs, frontend-development, angular-material
+
+---
 
 ### Prerequisites
 
