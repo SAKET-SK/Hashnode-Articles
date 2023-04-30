@@ -1,4 +1,12 @@
-# Day 6 : Angular - All about Pipes
+---
+title: "Day 6 : Angular - All about Pipes"
+datePublished: Thu Feb 16 2023 17:06:31 GMT+0000 (Coordinated Universal Time)
+cuid: cle7ctfyn000709mf79wvhqo9
+slug: day-6-angular-all-about-pipes
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/scUBcasSvbE/upload/f0e8a22b482df317fe935a2c697f3718.jpeg
+tags: mean, angularjs, frontend-development, angular-material
+
+---
 
 "Pipes are **simple functions to use in template expressions to accept an input value and return a transformed value**. Pipes are useful because you can use them throughout your application, while only declaring each pipe once."
 
