@@ -1,4 +1,12 @@
-# Day 1 : Angular - Into the background
+---
+title: "Day 1 : Angular - Into the background"
+datePublished: Sat Feb 11 2023 12:27:38 GMT+0000 (Coordinated Universal Time)
+cuid: cldzxnk2b07rmo1nv3tju5fow
+slug: day-1-angular-into-the-background
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5bYxXawHOQg/upload/e7bb7a581027a819821c2cc525c98468.jpeg
+tags: angularjs, angular-material
+
+---
 
 ---
 
