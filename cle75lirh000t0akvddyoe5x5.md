@@ -1,4 +1,12 @@
-# Day 5 : Angular - Attribute Directives
+---
+title: "Day 5 : Angular - Attribute Directives"
+datePublished: Thu Feb 16 2023 13:44:24 GMT+0000 (Coordinated Universal Time)
+cuid: cle75lirh000t0akvddyoe5x5
+slug: day-5-angular-attribute-directives
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/WA1k1TK38NE/upload/803cd1697dd25f001aec4e93d19158ea.jpeg
+tags: mean, angularjs, angular-material
+
+---
 
 In the previous article, we have seen Structural Directives (ngIf, ngFor, ngSwitchCase). In this article, we will learn more about Attribute Directives.
 
