@@ -1,4 +1,12 @@
-# Day 3 : Angular - Data Binding Concepts
+---
+title: "Day 3 : Angular - Data Binding Concepts"
+datePublished: Mon Feb 13 2023 17:31:42 GMT+0000 (Coordinated Universal Time)
+cuid: cle33ea6500030akw3re41nca
+slug: day-3-angular-data-binding-concepts
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/jmpCULA8UeM/upload/6c4ea0b66790637da8b1e2460da044cc.jpeg
+tags: angularjs, angular-material
+
+---
 
 ### Introduction
 
