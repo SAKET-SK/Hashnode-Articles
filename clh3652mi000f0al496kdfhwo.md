@@ -10,7 +10,7 @@ tags: nodejs, backend
 
 Today we are going to learn about the architecture of NodeJS.
 
-NodeJS is based on the V8 engine which is in turn a JavaScript Engine. Assuming that most of the part of the code of NodeJS is in JavaScript and the rest of the code is in C / C++. The reason being the V8 engine is partially coded in C++.
+NodeJS is based on the V8 engine which is in turn a JavaScript Engine. Assuming that most of the part of the code of NodeJS is in JavaScript and the rest of the code is in C / C++. The reason being the V8 engine is partially coded in C++
 
 One thing worth noticing is that JavaScript does not support the concepts of threads. Threads are usually responsible for handling multiple processes at the same time in an application. JavaScript does not have this concept, nor does NodeJS as it is mostly coded in JavaScript. JavaScript uses a concept called "Event Loop" instead.
 
