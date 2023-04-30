@@ -1,4 +1,12 @@
-# Day 4 : Angular - Structural Directives
+---
+title: "Day 4 : Angular - Structural Directives"
+datePublished: Thu Feb 16 2023 07:40:59 GMT+0000 (Coordinated Universal Time)
+cuid: cle6sm5wa00020al5bdar4jvz
+slug: day-4-angular-structural-directives
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/P_qvsF7Yodw/upload/f06a29b647070a165947cdf7151ec208.jpeg
+tags: mean, angularjs, angular-material
+
+---
 
 In Angular, the basic use of directives is to change the DOM layout, appearance or behavior.
 
