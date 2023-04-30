@@ -1,4 +1,12 @@
-# Day 7 : Angular - Input and Output Decorators
+---
+title: "Day 7 : Angular - Input and Output Decorators"
+datePublished: Thu Feb 16 2023 18:09:07 GMT+0000 (Coordinated Universal Time)
+cuid: cle7f1ya5000809jxcuzn3evo
+slug: day-7-angular-input-and-output-decorators
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/QkflfhJn1KA/upload/1cf0311bb0229619951562bfccdc461c.jpeg
+tags: mean, angularjs, frontend-development, angular-material
+
+---
 
 The use of Input and Output Decorators is usually handy when sending data between two components when they have a parent-child relationship. Interaction between components is highly possible when they are related like this. To establish a parent-child relationship, we use a child component selector in the parent component.
 
